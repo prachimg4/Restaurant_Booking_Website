@@ -10,7 +10,4 @@ A responsive web application for booking tables at restaurants. Built using **HT
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/prachimg4/Restaurant_Booking_Website.git
+
